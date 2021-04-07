@@ -87,3 +87,8 @@ h2, .entry-content h2 {
         color: #707070;
     
     }
+
+    .wp-block-group__inner-container :last-child{
+        background: #f7f7f7;
+    }
+    
