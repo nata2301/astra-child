@@ -68,3 +68,22 @@ h2, .entry-content h2 {
     color: #707070;
 
 }
+
+.wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title{
+
+    color: #707070;
+    }
+    
+    
+    .woocommerce div.product form.cart .button.single_add_to_cart_button {
+    
+        background-color: #E2DACC;
+        color: #707070;
+    }
+    
+    .woocommerce ul.products li.product .button, .woocommerce-page ul.products li.product .button {
+    
+        background-color: #E2DACC;
+        color: #707070;
+    
+    }
