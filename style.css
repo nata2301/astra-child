@@ -12,3 +12,18 @@ body {
     background-color:#F7F7F7;
     font-family: lato, sans-serif;
 }
+
+.ast-builder-menu .main-navigation {
+    align-self: center;
+    font-size: 35px;
+    padding-bottom: 20px;
+    font-family: 'lato',sans-serif;
+    width: 90vw;
+    justify-content: space-between;
+    display: flex;
+    
+}
+
+.ast-builder-menu-1 .menu-item > .menu-link {
+    color:  #707070;;
+}
