@@ -51,3 +51,20 @@ h2, .entry-content h2 {
 h2, .entry-content h2 {
     padding-top: 15px;
 }
+
+
+/*Button*/
+.wc-block-grid__products { 
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.wc-block-grid .wc-block-grid__products .wc-block-grid__product {
+    text-align: center;
+}
+
+
+.wc-block-grid__products .wc-block-grid__product .wp-block-button__link {
+    background-color: #E2DACC;
+    color: #707070;
+
+}
