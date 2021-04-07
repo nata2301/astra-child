@@ -27,3 +27,14 @@ body {
 .ast-builder-menu-1 .menu-item > .menu-link {
     color:  #707070;;
 }
+
+h2, .entry-content h2 {
+    font-size: 40px;
+    color: #707070;
+
+}
+
+.has-text-align-center {
+    font-family: 'lato',sans-serif;
+    padding-bottom: 15px;
+}
