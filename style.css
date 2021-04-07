@@ -6,3 +6,9 @@ Template: astra
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;1,100;1,300&display=swap');
+
+
+body {
+    background-color:#F7F7F7;
+    font-family: lato, sans-serif;
+}
