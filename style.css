@@ -38,3 +38,16 @@ h2, .entry-content h2 {
     font-family: 'lato',sans-serif;
     padding-bottom: 15px;
 }
+
+#ast-hf-menu-1 {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.site-primary-header-wrap {
+    padding-left: 0;
+}
+
+h2, .entry-content h2 {
+    padding-top: 15px;
+}
